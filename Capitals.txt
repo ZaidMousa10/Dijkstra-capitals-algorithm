@@ -1,0 +1,255 @@
+54,201
+Jaber, 40, 40
+Moscow, 55.769206596745704, 37.624319992290765
+Helsinki, 60.17675375108782, 24.9101548953973
+Stockholm, 59.33363055894837, 18.054505935911607
+Oslo, 59.86744582695459, 11.391333773480586
+Paris, 48.89419110902035, 2.7386173937495375
+Madrid, 40.28019393244208, -2.666655936844847
+Reykjavík, 64.14873061164133, -21.948626449945937
+Ottawa, 45.42485518621434, -75.38877488457756
+Washington, 38.90845835730525, -77.03364547243469
+Mexico City, 19.739299867528242, -96.59694692711008
+Brasília, -15.790875788667268, -47.87695145258979
+Buenos Aires, -34.594621003747164, -58.39112108331468
+Santiago, -33.484269934293984, -70.43173354284303
+Cairo, 30.56162562014246, 32.475305296854515
+Algiers, 36.742761673020084, 3.0739663423504124
+Bamako, 12.636531905875357, -8.009372432715153
+N'Djamena, 12.121386693849766, 15.061452097311992
+Libreville, 0.4091443249859344, 9.42488677626037
+Cape Town, -33.92519231090767, 18.404407697668514
+Antananarivo, -18.924445876381753, 47.53299091943762
+Mogadishu, 2.0434104577562033, 45.3306652705972
+Riyadh, 24.717525963848722, 46.6365927697894
+Tehran, 35.73606711126136, 51.31427976441359
+Beijing, 39.91955020468265, 116.41238567382383
+New Delhi, 28.61650032366157, 77.21377490862595
+Bangkok, 13.769170913812452, 100.48703296377408
+Canberra, -35.29599200788338, 149.36898354385585
+Athens, 37.988569675260784, 23.727327790431392
+Ankara, 39.934356266463624, 32.84202481036473
+Warsaw, 52.22967562550233, 20.99382502465832
+Astana, 51.159577808960606, 71.43809885308933
+Baghdad, 33.3330774475375, 44.392553735524984
+Muscat, 23.5853548248187, 58.370481012823916
+Lusaka, -15.409330886776447, 28.26466397263585
+Nouakchott, 18.076899587767418, -15.964577834764723
+Managua, 12.118968904687023, -86.20983550690985
+Lima, -12.043406263381195, -77.0459702352988
+Bogotá, 4.711239189093047, -74.08036027809584
+Minsk, 53.903544599445446, 27.558338585273933
+Dublin, 53.3520858735531, -6.2525816548828965
+London, 51.509726432979626, -0.13800245210263332
+Bucharest, 44.426920251813414, 26.06990489766055
+Kathmandu, 27.719068310336933, 85.68886699439804
+Tokyo, 35.68598012866619, 139.76900478504297
+Sana'a, 15.354514003543798, 44.20233577041271
+Damascus, 33.50887955008403, 36.27396510817086
+Bangui, 4.362474246654632, 18.58028787069979
+Ulaanbaatar, 47.929777375945925, 106.88611825689428
+Khartoum, 15.607783309515534, 32.54484124035489
+Havana, 23.13587035314601, -82.37696490967954
+Dodoma, -6.181133172602213, 35.7456796456563
+Kabul, 34.564573605753694, 69.19766854439692
+Doha, 25.2845384217039, 51.52433904288808
+Moscow,Ankara,185 ,265  
+Helsinki,London,135 ,70  
+Helsinki,Paris,177 ,125  
+Helsinki,Reykjavík,214 ,115  
+Helsinki,Madrid,314 ,205  
+Stockholm,oslo,96 ,65  
+Stockholm,Reykjavík,211 ,145  
+Stockholm,Paris,241 ,100  
+Stockholm,Madrid,269 ,245  
+Oslo,Paris,186 ,165  
+Oslo,Reykjavik,277 ,180  
+Oslo,Dublin,300 ,150  
+Oslo,Warsaw,197 ,110  
+Paris,Bucharest,193 ,165  
+Paris,Algiers,122 ,145  
+Paris,Athens,151 ,195  
+Paris,Helsinki,214 ,175  
+Paris,ottawa,2911 ,480  
+Madrid,Dublin,295 ,155  
+Madrid,Algeris,87 ,100  
+Madrid,Cairo,318 ,285  
+Madrid,Athens,212 ,205  
+Reykjavík,Washington,750 ,280  
+Reykjavík,Paris,121 ,210  
+Jaber,Dublin,230,140
+Reykjavík,landon,63 ,180  
+Reykjavík,Dublin,108 ,160  
+Ottawa,Washington,667 ,144  
+Washington,Ottawa,109 ,100  
+Washington,Mexico City,220 ,317  
+Washington,Bogotá,133 ,330  
+Washington,Paris,653 ,450  
+Mexico City,Paris,1095 ,625  
+Mexico City,Managua,356 ,165  
+Mexico City,Bogotá,145 ,270  
+Mexico City,Lima,183 ,357  
+Mexico City,Buenos Aires,1500 ,550  
+Mexico City,Havana,201 ,160  
+Mexico City,Washington,262 ,260  
+Mexico City,Santiago,564 ,490  
+Brasília,Buenos Aires,500 ,215  
+Brasília,Lima,216 ,275  
+Buenos Aires,lima,436 ,287  
+Buenos Aires,Santiago,130 ,140  
+Buenos Aires,Brasília,895 ,215  
+Buenos Aires,Bogotá,485 ,369  
+Santiago,Madrid,1264 ,715  
+Santiago,Paris,1222 ,775  
+Santiago,Lima,394 ,287  
+Santiago,Mexico City,647 ,520  
+Santiago,Buenos Aires,85 ,126  
+Cairo,Baghdad,218 ,130  
+Cairo,Sana'a,176 ,170  
+Cairo,Khartoum,327 ,130  
+Cairo,Algiers,184 ,250  
+Cairo,Riyadh,133 ,145  
+Cairo,Athens,125 ,120  
+Cairo,Doha,242 ,180  
+Cairo,Bucharest,191 ,170  
+Cairo,Muscat,169 ,225  
+Cairo,N'Djamena,373 ,250  
+Algiers,Nouakchott,269 ,255  
+Algiers,Madrid,215 ,95  
+Algiers,Cairo,371 ,225  
+Algiers,Paris,64 ,155  
+Bamako,Nouakchott,253 ,100  
+Bamako,Paris,647 ,360  
+N'Djamena,Cairo,437 ,200  
+Libreville,Paris,1466 ,455  
+Libreville,Cape Town,544 ,335  
+Cape Town,Ankara,838 ,680  
+Cape Town,Antananarivo,438 ,305  
+Cape Town,Doha,470 ,580  
+Antananarivo,Cape Town,573 ,200  
+Antananarivo,Mogadishu,777 ,280  
+Mogadishu,Riyadh,510 ,250  
+Mogadishu,Ankara,692 ,425  
+Riyadh,San'a,56 ,120  
+Riyadh,London,264 ,450  
+Riyadh,Muscat,124 ,120  
+Riyadh,Doha,69 ,85  
+Riyadh,Kabul,275 ,240  
+Riyadh,Bangkok,496 ,415  
+Riyadh,New Delhi,99 ,240  
+Riyadh,Beijing,398 ,540  
+Riyadh,Ankara,60 ,265  
+Riyadh,Cairo,69 ,185  
+Riyadh,Athens,140 ,270  
+Tehran,Kabul,175 ,150  
+Tehran,Baghdad,114 ,90  
+Beijing,Astana,403 ,240  
+Beijing,Tokyo,443 ,220  
+Beijing,Ulaanbaatar,444 ,150  
+Beijing,Canberra,463 ,685  
+New Delhi,Kathmandu,59 ,110  
+New Delhi,Canberra,1330 ,745  
+New Delhi,Washington,2184 ,925  
+New Delhi,paris,1135 ,595  
+Bangkok,Tokyo,329 ,365  
+Bangkok,Canberra,405 ,560  
+Bangkok,Paris,1127 ,765  
+Bangkok,London,1743 ,820  
+Canberra,Tokyo,1511 ,590  
+Canberra,New Delhi,1080 ,780  
+Canberra,Cape Town,1137 ,855  
+Canberra,Bangkok,357 ,595  
+Athens,Cairo,108 ,120  
+Athens,Madrid,304 ,235  
+Athens,Warsaw,165 ,155  
+Athens,Doha,611 ,260  
+Ankara,Paris,450 ,260  
+Ankara,London,395 ,260  
+Ankara,Riyadh,183 ,215  
+Ankara,Doha,203 ,240  
+Warsaw,Doha,430 ,340  
+Warsaw,Helsinki,69 ,110  
+Warsaw,Bucharest,294 ,110  
+Warsaw,paris,72 ,160  
+Astana,Beijing,401 ,240  
+Baghdad,Cairo,256 ,160  
+Baghdad,Doha,750 ,130  
+Baghdad,Ankara,115 ,185  
+Muscat,Riyadh,346 ,155  
+Muscat,Doha,81 ,95  
+Muscat,Cairo,159 ,290  
+Muscat,New Delhi,196 ,180  
+Lusaka,Cape Town,227 ,120  
+Lusaka,Doha,1035 ,420  
+Lusaka,Dodoma,514 ,160  
+Nouakchott,Algiers,552 ,250  
+Nouakchott,Ankara,730 ,410  
+Managua,Havana,351 ,145  
+Lima,Madrid,1293 ,680  
+Lima,Buenos Aires,158 ,260  
+Lima,Santiago,120 ,225  
+Lima,Mexico City,1020 ,370  
+Bogotá,Lima,208 ,185  
+Bogotá,Mexico City,432 ,290  
+Bogotá,Havana,335 ,215  
+Bogotá,Buenos Aires,349 ,375  
+Minsk,Doha,704 ,390  
+Dublin,Cairo,424 ,315  
+Dublin,Paris,81 ,100  
+Dublin,Helsinki,358 ,185  
+Dublin,Ankara,478 ,270  
+London,Paris,32 ,80  
+London,Doha,712 ,400  
+London,Madrid,26 ,150  
+London,Washington,2638 ,505  
+Bucharest,Paris,136 ,205  
+Bucharest,Doha,353 ,270  
+Bucharest,Athens,63 ,145  
+Bucharest,London,142 ,210  
+Kathmandu,Doha,545 ,335  
+Kathmandu,New Delhi,126 ,135  
+Kathmandu,Tokyo,780 ,320  
+Kathmandu,Bangkok,204 ,190  
+Tokyo,Helsinki,1409 ,785  
+Tokyo,Paris,1391 ,895  
+Tokyo,New Delhi,384 ,605  
+Tokyo,Beijing,104 ,270  
+Tokyo,Doha,549 ,765  
+Sana'a,Riyadh,96 ,110  
+Sana'a,Cairo,177 ,180  
+Sana'a,Muscat,251 ,185  
+Damascus,Doha,453 ,160  
+Damascus,Cairo,190 ,90  
+Damascus,Ankara,154 ,120  
+Damascus,Athens,186 ,120  
+Bangui,Mogadishu,592 ,200  
+Ulaanbaatar,Ankara,365 ,555  
+Ulaanbaatar,Beijing,444 ,140  
+Khartoum,Cairo,176 ,130  
+Khartoum,Doha,291 ,150  
+Havana,Madrid,618 ,520  
+Havana,Mexico City,441 ,200  
+Havana,Bogotá,198 ,199  
+Dodoma,Lusaka,210 ,200  
+Dodoma,Antananarivo,462 ,310  
+Kabul,Doha,400 ,210  
+Kabul,Riyadh,600 ,240  
+Kabul,Ankara,381 ,450  
+Doha,Stockholm,250 ,264  
+Doha,Algiers,102 ,273  
+Doha,Ulaanbaatar,242 ,178  
+Doha,Lima,832 ,286  
+Doha,Athens,552 ,305  
+Doha,London,901 ,455  
+Doha,Madrid,681 ,460  
+Doha,New Delhi,169 ,215  
+Doha,Cairo,154 ,230  
+Doha,Muscat,121 ,90  
+Doha,Riyadh,115 ,85  
+Doha,Lusaka,859 ,430  
+Doha,Cape Town,1119 ,585  
+Doha,Canberra,1937 ,286  
+Doha,Baghdad,640 ,140  
+Doha,Algiers,714 ,435  
+Doha,Washington,1767 ,900  
+Doha,Moscow,914 ,340  
